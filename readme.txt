@@ -1,10 +1,9 @@
 === WordPress Plugin Template ===
-Contributors: hlashbrooke
-Donate link: http://www.hughlashbrooke.com/donate
+Contributors: opendsi
 Tags: wordpress, plugin, template
-Requires at least: 3.9
-Tested up to: 4.0
-Stable tag: 1.0
+Requires at least: 4.0
+Tested up to: 4.8.2
+Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -19,8 +18,8 @@ This is where you can give a much longer description of your plugin that you can
 Installing "WordPress Plugin Template" can be done either by searching for "WordPress Plugin Template" via the "Plugins > Add New" screen in your WordPress dashboard, or by using the following steps:
 
 1. Download the plugin via WordPress.org
-1. Upload the ZIP file through the 'Plugins > Add New > Upload' screen in your WordPress dashboard
-1. Activate the plugin through the 'Plugins' menu in WordPress
+2. Upload the ZIP file through the 'Plugins > Add New > Upload' screen in your WordPress dashboard
+3. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Screenshots ==
 
@@ -36,12 +35,6 @@ This plugin template is designed to help you get started with any new WordPress 
 
 == Changelog ==
 
-= 1.0 =
-* 2012-12-13
-* Initial release
-
-== Upgrade Notice ==
-
-= 1.0 =
+= 1.0.0 =
 * 2012-12-13
 * Initial release
