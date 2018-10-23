@@ -7,7 +7,7 @@
  * Author: Open-DSI
  * Author URI: https://www.open-dsi.fr/
  * Requires at least: 4.0
- * Tested up to: 4.8.2
+ * Tested up to: 4.9.8
  *
  * Text Domain: wordpress-plugin-template
  * Domain Path: /lang/

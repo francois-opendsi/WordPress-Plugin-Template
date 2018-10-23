@@ -2,9 +2,9 @@
 Contributors: opendsi
 Tags: wordpress, plugin, template
 Requires at least: 4.0
-Tested up to: 4.8.2
+Tested up to: 4.9.8
 Stable tag: 1.0.0
-License: GPLv2 or later
+License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This is where you craft a short, punchy description of your plugin
@@ -36,5 +36,5 @@ This plugin template is designed to help you get started with any new WordPress 
 == Changelog ==
 
 = 1.0.0 =
-* 2012-12-13
+* 2018-12-13
 * Initial release

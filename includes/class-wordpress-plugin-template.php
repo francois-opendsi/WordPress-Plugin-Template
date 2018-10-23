@@ -269,7 +269,7 @@ class WordPress_Plugin_Template {
 	 *
 	 * @param string $file    File pathname.
 	 * @param string $version Version number.
-	 * @return Main WordPress_Plugin_Template instance
+	 * @return WordPress_Plugin_Template instance
 	 */
 	public static function instance( $file = '', $version = '1.0.0' ) {
 		if ( is_null( self::$_instance ) ) {

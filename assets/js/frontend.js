@@ -1,3 +1,5 @@
-jQuery( document ).ready( function ( e ) {
-	
-});
+(function($) {
+  $( document ).ready( function ( e ) {
+
+  });
+})( jQuery );
